@@ -24,3 +24,4 @@ ws://track.file.pizza:80/announce
 
 ws://hub.bugout.link:80/announce
 
+ws://172.104.60.240:80
